@@ -1,0 +1,5 @@
+1001		C		Dennis		Computer		210.00		12		23:03:12		Jul  9 2015
+1002		EMFT		Sadiku		Electronics		760.00		6		23:03:12		Jul  9 2015
+1003		Thermo		Ramana		Mechanical		365.50		23		23:03:12		Jul  9 2015
+1004		Network		Fourzen		Computer		900.00		2		23:33:59		Jul  9 2015
+1005		JAVA		CR		Computer		870.00		6		00:36:42		Jul 10 2015
